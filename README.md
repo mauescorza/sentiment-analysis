@@ -2,6 +2,12 @@
 
 Sentiment analysis is a natural language processing technique used to identify and extract subjective information from text. The growth of social media has increased interest in sentiment analysis, as virtual opinions have become valuable for businesses. Companies utilize sentiment analysis to market products, discover opportunities, and manage their reputation by analyzing reviews, ratings, and expressions.
 
+### Team members
+* Alan Ignacio López Carrillo
+* Mauricio Escorza Cantú
+* Abraham Jimenez Reyes
+* Juan Daniel San Martín Macías
+
 ### Hypothesis
 It is possible to automatically determine the sentiment associated with a message on social media through text analysis.
 
